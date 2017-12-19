@@ -1,2 +1,2 @@
 # CS207Project
-Final CS Project
+Shoebox DMX Console 
